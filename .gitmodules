@@ -1,3 +1,6 @@
 [submodule "ionic-tabsAngular"]
 	path = ionic-tabsAngular
 	url = https://github.com/thethomaswgeorge/ionic-tabsAngular
+[submodule "ionic-sideApp"]
+	path = ionic-sideApp
+	url = https://github.com/thethomaswgeorge/ionic-sideApp.git
