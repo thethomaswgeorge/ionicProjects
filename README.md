@@ -20,7 +20,7 @@ The Conference App is a stand-alone pre-created template that is provided by Ion
 ### Super App (superApp)
 ### My Side Menu (MySideMenu)
 ### Tabular App (tabsAngular)
-
+This was my first real project I created in the Ionic Framework and really got to mess with.  In the project, I was wanted to find out all there is to every type of UI elements you can possibly add as well as possible add-ons that would enhance Ionic Apps.  For instance, one Add-On I wanted to see if they had was the ability to use [FontAwesome](https://fontawesome.com/) Icons.  With a little searching on the web I found out they have their very own icons called [Ionicons](https://ionicons.com/).  This allowed me to customize and really bring the feel of the app to a more unique level than it was before.
 
 ## In The Near Future Projects
 This will be filled in soon..
